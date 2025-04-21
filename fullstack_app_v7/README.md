@@ -1,3 +1,6 @@
+**Please install Ollama then Qwen 2.5 Coder 0.5b & Deepseek R1 8b before using this application.**
+
+
 <<<<<<< HEAD
 To Change LLM:
 GOTO: src/main/resources/application.properties
